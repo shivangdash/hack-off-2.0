@@ -3,7 +3,7 @@ import numpy as np
 
 # Video Capture 
 # capture = cv2.VideoCapture(0)
-capture = cv2.VideoCapture("demo.mp4")
+capture = cv2.VideoCapture("demo1.mp4")
 
 # History, Threshold, DetectShadows 
 # fgbg = cv2.createBackgroundSubtractorMOG2(50, 200, True)
